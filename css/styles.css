@@ -12,11 +12,32 @@
     margin-bottom: 50px;
     margin-top: 10px;
     align-content: center;
-    max-width:100%;
+    width:75%;
     height:auto;
 
 }
 
+.cat-list{
+    align-content: center;
+}
+
 .footer{
+    text-align: center;
+}
+
+.cat-button{
+    width: 100%;
+    height: auto;
+    display = block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.cat-viweing-area{
+    text-align: center;
+}
+
+.body{
     text-align: center;
 }
