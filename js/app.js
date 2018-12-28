@@ -63,7 +63,7 @@ let catView = {
             octopus.incrementCounter();
         });
 
-        this.render;
+        this.render();
 
     },
     render: function(){
