@@ -1,0 +1,22 @@
+.header{
+    color:black;
+    text-align: center;
+}
+
+.cat-name{
+    text-align: center;
+}
+.responsive-image{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    align-content: center;
+    max-width:100%;
+    height:auto;
+
+}
+
+.footer{
+    text-align: center;
+}
